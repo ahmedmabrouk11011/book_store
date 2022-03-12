@@ -21,7 +21,7 @@ The architecture
 - REST/HTTTP
 
 
-![This is an image](https://github.com/ahmedmabrouk11011/book_store/blob/main/web%20arceticture.png)
+![This is an image](https://github.com/ahmedmabrouk11011/book_store/blob/main/Docs/web%20arceticture.png)
 
 The CI/CD
 - GitHub
@@ -31,14 +31,14 @@ The CI/CD
 - Docker Compose
 
 
-![This is an image](https://github.com/ahmedmabrouk11011/book_store/blob/main/ci-cd.png)
+![This is an image](https://github.com/ahmedmabrouk11011/book_store/blob/main/Docs/ci-cd.png)
 
 
 ## Application Endpoint
 You can visit the app using this link [Book Store](http://ec2-44-202-33-153.compute-1.amazonaws.com/).
 
 You can send HTTP request for the API using the below collection
-[Book Store Collection](http://ec2-44-202-33-153.compute-1.amazonaws.com/).
+[Book Store Collection](https://github.com/ahmedmabrouk11011/book_store/blob/main/Docs/Book%20Store%20Collection.json).
 
 EndPoints:
 GET /
