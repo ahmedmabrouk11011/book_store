@@ -1,4 +1,4 @@
-### :rocket Udacity Challenge
+### :rocket: Starting the Application
 
 This repository is meant to be used as a challenge for Udacity.
 
@@ -19,7 +19,7 @@ The architecture
 - PostgreSQL for database
 - PGadmin
 - REST/HTTTP
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/ahmedmabrouk11011/book_store/blob/main/web%20arceticture.png)
 
 The CI/CD
 - GitHub
@@ -27,7 +27,7 @@ The CI/CD
 - AWS 
 - Docker
 - Docker Compose
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/ahmedmabrouk11011/book_store/blob/main/ci-cd.png)
 
 
 ## Application Endpoint
@@ -54,3 +54,4 @@ DELETE /api/books/$ID/
 docker compose up -d
 ```
 And you can visit the application on localhost:80
+
