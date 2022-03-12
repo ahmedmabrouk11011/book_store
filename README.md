@@ -1,4 +1,4 @@
-### :rocket: Starting the Application
+### :rocket: Udacity Challenge
 
 This repository is meant to be used as a challenge for Udacity.
 
