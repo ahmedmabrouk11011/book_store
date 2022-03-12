@@ -19,6 +19,8 @@ The architecture
 - PostgreSQL for database
 - PGadmin
 - REST/HTTTP
+
+
 ![This is an image](https://github.com/ahmedmabrouk11011/book_store/blob/main/web%20arceticture.png)
 
 The CI/CD
@@ -27,6 +29,8 @@ The CI/CD
 - AWS 
 - Docker
 - Docker Compose
+
+
 ![This is an image](https://github.com/ahmedmabrouk11011/book_store/blob/main/ci-cd.png)
 
 
