@@ -12,7 +12,7 @@ I should cover
 
 ## The challenge
 
-In this project, you will create a simple Bookstore web application using this dataset Goodreads-books
+In this project, you will create a simple Bookstore web application using this dataset [Goodreads-books](https://www.kaggle.com/jealousleopard/goodreadsbooks)
 
 The architecture
 - Django Web application frame work
