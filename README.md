@@ -35,7 +35,7 @@ The CI/CD
 
 
 ## Application Endpoint
-You can visit the app using this link [Book Store](http://ec2-44-202-33-153.compute-1.amazonaws.com/).
+You can visit the app using this link [Book Store](http://ec2-44-201-143-66.compute-1.amazonaws.com/).
 
 You can send HTTP request for the API using the below collection
 [Book Store Collection](https://github.com/ahmedmabrouk11011/book_store/blob/main/Docs/Book%20Store%20Collection.json).
