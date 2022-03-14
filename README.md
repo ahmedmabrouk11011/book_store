@@ -41,13 +41,13 @@ You can send HTTP request for the API using the below collection
 [Book Store Collection](https://github.com/ahmedmabrouk11011/book_store/blob/main/Docs/Book%20Store%20Collection.json).
 
 EndPoints:
-GET /
-GET /api/books/
-POST /api/books/
-DELETE /api/books/
-GET /api/books/$ID/
-PUT /api/books/$ID/
-DELETE /api/books/$ID/
+- GET /
+- GET /api/books/
+- POST /api/books/
+- DELETE /api/books/
+- GET /api/books/$ID/
+- PUT /api/books/$ID/
+- DELETE /api/books/$ID/
 
 ### Requirements
 - Docker
